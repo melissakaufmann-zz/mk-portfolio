@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "This is my Title"
+title:  "Updating our style guide"
 date:   2017-01-02 
 categories: branding
 ---
 
-
-##This is an h2
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
