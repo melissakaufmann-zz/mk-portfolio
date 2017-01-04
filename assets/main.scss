@@ -47,6 +47,8 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima",
-        "../_sass/components/post"
+        "../_sass/components/post",
+        "../_sass/components/project",
+        "../_sass/components/ability"
 ;
 

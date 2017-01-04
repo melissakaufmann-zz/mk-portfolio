@@ -4,6 +4,7 @@ title:  "User Research"
 date:   2016-12-15 
 categories: blog
 tags: coffee pencil
+featured-image: "/assets/img/project.png"
 ---
 
 
