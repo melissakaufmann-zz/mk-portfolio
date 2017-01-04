@@ -3,6 +3,7 @@ layout: post
 title:  "Design Musings"
 date:   2016-12-21 
 categories: design thinking
+tags: lightbulb
 ---
 
 

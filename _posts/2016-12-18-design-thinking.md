@@ -3,6 +3,8 @@ layout: post
 title:  "How our team uses design thinking"
 date:   2016-12-18 
 categories: process
+featured: true
+tags: lightbulb
 ---
 
 

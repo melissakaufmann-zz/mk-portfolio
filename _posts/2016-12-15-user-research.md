@@ -3,6 +3,7 @@ layout: post
 title:  "User Research"
 date:   2016-12-15 
 categories: UX Design
+tags: coffee pencil
 ---
 
 
