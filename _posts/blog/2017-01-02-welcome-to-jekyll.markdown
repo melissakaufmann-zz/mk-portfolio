@@ -2,7 +2,7 @@
 layout: post
 title:  "Updating our style guide"
 date:   2017-01-02 
-categories: branding
+categories: blog
 tags: email
 ---
 
